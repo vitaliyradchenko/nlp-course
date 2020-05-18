@@ -1,0 +1,6 @@
+gensim
+nbformat
+nltk
+matplotlib
+MulticoreTSNE
+plotly
