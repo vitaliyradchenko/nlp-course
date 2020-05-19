@@ -3,4 +3,5 @@ nbformat
 nltk
 matplotlib
 MulticoreTSNE
+torch==1.4.0
 plotly
