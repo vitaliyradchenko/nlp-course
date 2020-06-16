@@ -22,7 +22,7 @@ ipython kernel install --user --name=nlp-course
 [Word2Vec](https://github.com/vitaliyradchenko/nlp-course/blob/master/workshops/Word2Vec.ipynb), 
 [Simple NN](https://github.com/vitaliyradchenko/nlp-course/blob/master/workshops/Simple%20NN.ipynb)
 2. [RNN](https://github.com/vitaliyradchenko/nlp-course/blob/master/workshops/RNN.ipynb)
-3. Language modeling practical examples. Transformers under the hood
+3. Transformers by HuggingFace. Language modeling practical examples.
 4. Transfer learning for classification
 5. Transfer learning on GLUE tasks
 
