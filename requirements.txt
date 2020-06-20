@@ -4,4 +4,5 @@ nltk
 matplotlib
 MulticoreTSNE
 torch==1.4.0
+transformers==1.10.0
 plotly
