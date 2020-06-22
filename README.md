@@ -5,7 +5,6 @@ Then you have to active virtual environment with `source venv/bin/activate`.
 After activation install packages from `requirements.txt`. Just run `pip install -r requirements.txt`  
 To work comfortably with jupyter notebooks you should install kernel for your environment:
 ```bash
-pip install ipykernel
 ipython kernel install --user --name=nlp-course
 ```
 
@@ -40,3 +39,18 @@ ipython kernel install --user --name=nlp-course
         2. Use different configurations for word2vec (different embedding size) and compare model performance
         3. Try to change NN architecture based on what you have learnt on other courses.
 
+2. RNN
+    Improve accuracy on IMDB sentiment dataset:
+        
+        1. Compare accuracy for RNN, GRU and LSTM architectures
+        2. Compare accuracy for mono- and bi-directional RNNs
+        3. Try multilayer RNNs
+        4. Experiment with changing batch size, maximum sequence length, dropouts and other hyperparameters.
+        
+3. Text generation
+    Compare different techniques for text generation
+        1. Implement sampling with temperature
+        2. Implement top k sampling
+        3. Implement top p sampling (nuclear sampling)
+        4. Compare baseline, topK and topP sampling technique results.
+       
