@@ -46,9 +46,12 @@ ipython kernel install --user --name=nlp-course
         2. Compare accuracy for mono- and bi-directional RNNs
         3. Try multilayer RNNs
         4. Experiment with changing batch size, maximum sequence length, dropouts and other hyperparameters.
+        5. Implement max and average pooling with masking
         
 3. Text generation
+
     Compare different techniques for text generation
+    
         1. Implement sampling with temperature
         2. Implement top k sampling
         3. Implement top p sampling (nuclear sampling)
