@@ -47,6 +47,7 @@ ipython kernel install --user --name=nlp-course
         3. Try multilayer RNNs
         4. Experiment with changing batch size, maximum sequence length, dropouts and other hyperparameters.
         5. Implement max and average pooling with masking
+        6. Compare accuracy and performarce for different configurations: max sequence length, number of layers, RNN hidden size etc.
         
 3. Text generation
 
