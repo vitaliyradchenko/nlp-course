@@ -53,8 +53,9 @@ ipython kernel install --user --name=nlp-course
 
     Compare different techniques for text generation
     
-        1. Implement sampling with temperature
-        2. Implement top k sampling
-        3. Implement top p sampling (nuclear sampling)
-        4. Compare baseline, topK and topP sampling technique results.
+        1. End penalty for repeating words
+        2. Implement sampling with temperature
+        3. Implement top k sampling
+        4. Implement top p sampling (nuclear sampling)
+        5. Compare baseline, topK and topP sampling technique results.
        
