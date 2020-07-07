@@ -22,7 +22,7 @@ ipython kernel install --user --name=nlp-course
 [Simple NN](https://github.com/vitaliyradchenko/nlp-course/blob/master/workshops/Simple%20NN.ipynb)
 2. [RNN](https://github.com/vitaliyradchenko/nlp-course/blob/master/workshops/RNN.ipynb)
 3. [Transformers by HuggingFace](https://github.com/vitaliyradchenko/nlp-course/blob/master/workshops/Into%20to%20transformers%20by%20HuggingFace.ipynb). [Language modeling practical examples](https://github.com/vitaliyradchenko/nlp-course/blob/master/workshops/Language%20models.ipynb).
-4. Transfer learning for classification
+4. Training pipeline improvements
 5. Transfer learning on GLUE tasks
 
 ## Homework
@@ -59,3 +59,12 @@ ipython kernel install --user --name=nlp-course
         4. Implement top p sampling (nuclear sampling)
         5. Compare baseline, topK and topP sampling technique results.
        
+4. Fine-tuning transformers
+
+    Fine-tune transformer for IMDB reviews classification
+    
+        1. Create data preprocessing pipeline using only tokenizers from `transformers`
+        2. Use pre-trained transformer and add classification head for multiclass classification
+        3. Compare results for different BERT sizes
+
+    
