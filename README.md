@@ -22,7 +22,7 @@ ipython kernel install --user --name=nlp-course
 [Simple NN](https://github.com/vitaliyradchenko/nlp-course/blob/master/workshops/Simple%20NN.ipynb)
 2. [RNN](https://github.com/vitaliyradchenko/nlp-course/blob/master/workshops/RNN.ipynb)
 3. [Transformers by HuggingFace](https://github.com/vitaliyradchenko/nlp-course/blob/master/workshops/Into%20to%20transformers%20by%20HuggingFace.ipynb). [Language modeling practical examples](https://github.com/vitaliyradchenko/nlp-course/blob/master/workshops/Language%20models.ipynb).
-4. Training pipeline improvements
+4. [Training pipeline improvements](https://github.com/vitaliyradchenko/nlp-course/blob/master/workshops/Training%20tricks.ipynb)
 5. Transfer learning on GLUE tasks
 
 ## Homework
