@@ -9,3 +9,4 @@ torch==1.4.0
 transformers==2.11.0
 plotly
 sentencepiece==0.1.91
+spacy==2.3.2
